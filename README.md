@@ -1,12 +1,10 @@
 # Threat Modelling Workshop Summary
 
+This document summarizes the outcomes of a 3-hour threat modeling workshop focused on the Solaris Care Connect 360 application. 
 
+The goal of the workshop was to identify potential security risks and provide a mitigation plan based on real-world attack scenarios. 
 
-## Introduction
-
-A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360.
-
-
+I used industry-standard frameworks like MITRE ATT&CK and STRIDE to evaluate threats and gaps in security controls.
 
 ## Attendees
 
